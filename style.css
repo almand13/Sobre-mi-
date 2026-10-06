@@ -1,0 +1,17 @@
+header {
+background-color: #7e3551;
+color: white;
+text-align: center;
+padding: 40px;
+}
+body {
+font-family: georgia, 'Times New Roman', Times, serif;
+background-color: #f19edf;
+color: #5a0808;
+margin: 0;
+}
+
+h1 {
+font-size: 40px;
+margin-bottom: 10px;
+}
